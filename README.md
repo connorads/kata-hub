@@ -1,1 +1,3 @@
-# kata-hub
+# Kata Hub
+
+Practice practice practice!
